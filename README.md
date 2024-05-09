@@ -1,4 +1,4 @@
-BreadcrumbsSchool-Management-Portal-Public-App
+School-Management-Portal-Public-App
 
 ![Capture d’écran 2023-05-31 230556](https://github.com/BalerionGT/School-Management-Portal-Public-App/assets/125411704/e194623c-e07a-4e0c-b79c-8fabca4a96d9)
 ![Capture d’écran 2023-05-31 230618](https://github.com/BalerionGT/School-Management-Portal-Public-App/assets/125411704/903e9bf7-cae5-4d0d-b287-be24ba9ab0fb)
